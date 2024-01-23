@@ -1,5 +1,5 @@
 # Read Me First
-FE : https://github.com/thangtq224work/AnimeShopingFE
+FE : https://github.com/maxlu2k/AnimeShopingFE
 ### Run App with docker in window os
 * required : docker , jdk 17 : 
 * how to install ? =>  jdk : https://www.youtube.com/watch?v=ykAhL1IoQUM ; 
